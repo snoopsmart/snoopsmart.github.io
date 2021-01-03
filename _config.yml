@@ -13,15 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Snoop Smart
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Looking for the best possible item before you buy it?  We seek out
+  authoritative Reddit communities where experts on a specific item share
+  their experience.  Those searches and our results are documented here.
+  Hopefully we save you some time looking up the same information!
+  
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: snoopsmart
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
