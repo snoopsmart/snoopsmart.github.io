@@ -16,10 +16,10 @@
 title: Snoop Smart
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Looking for the best possible item before you buy it?  We seek out
+  Looking for the best item before you buy it?  We seek out
   authoritative Reddit communities where experts on a specific item share
-  their experience.  Those searches and our results are documented here.
-  Hopefully we save you some time looking up the same information!
+  their experience.  Our searches are documented here.
+  Hopefully we save you time looking up the same information!
   
 twitter_username: username
 github_username: snoopsmart
@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/snoopsmart_small.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
